@@ -1,0 +1,24 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+}
+
+h1 {
+    font-size: 70px;
+    color: rgb(232, 68, 68);
+    font-weight: 800;
+    text-align: center;
+    
+}
+
+.index {
+    font-size: 30px;
+    color: rgb(42, 42, 173);
+    text-align: center;
+}
+
+.dog {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
