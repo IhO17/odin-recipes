@@ -1,11 +1,12 @@
 * {
     font-family: 'Times New Roman', Times, serif;
     background-color: aquamarine;
+    font-size: 20px;
 }
 
-h1 {
+.title {
     font-size: 70px;
-    color: rgb(232, 68, 68);
+    color: rgb(207, 67, 67);
     font-weight: 800;
     text-align: center;
     
@@ -13,12 +14,26 @@ h1 {
 
 .index {
     font-size: 30px;
-    color: rgb(42, 42, 173);
     text-align: center;
+    
 }
 
-.dog {
+.dog,
+.pic {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    
+    
+}
+
+.recipe-title {
+    font-size: 50px;
+    color: rgb(74, 44, 241);
+}
+
+h3 {
+    font-size: 30px;
+    color: rgb(156, 59, 212);
+    font-style: italic;
 }
